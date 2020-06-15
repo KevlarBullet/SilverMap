@@ -1,0 +1,16 @@
+[
+  {
+    "modid": "silvermap",
+    "name": "Silver Map",
+    "description": "An attempt at whatever",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "url": "",
+    "updateUrl": "",
+    "authorList": ["_Silver"],
+    "credits": "Me myself and that one guy",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": []
+  }
+]
